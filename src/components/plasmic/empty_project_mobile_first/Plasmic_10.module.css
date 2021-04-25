@@ -1,0 +1,278 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  background: #ffffff;
+}
+.iPhone851 {
+  width: 375px;
+  height: 812px;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  left: auto;
+  top: auto;
+  flex-shrink: 0;
+  background: rgba(255, 255, 255, 1);
+}
+.icons12 {
+  width: 100%;
+  height: 58px;
+  display: block;
+  position: absolute;
+  top: 24px;
+  left: 0%;
+}
+.overflow12 {
+  width: 12px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 16px;
+}
+.icon312 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 52px;
+}
+.icon212 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 100px;
+}
+.icon112 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 16px;
+}
+.iconBack6 {
+  width: 32px;
+  height: 32px;
+  display: block;
+  position: absolute;
+  top: 52px;
+  left: 20px;
+}
+.icroundKeyboardBackspace6 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  overflow: hidden;
+}
+.textFieldOutlined4 {
+  width: 328px;
+  height: 76px;
+  display: block;
+  position: absolute;
+  top: 226px;
+  left: 24px;
+}
+.svg__kyDjH {
+  position: absolute;
+  object-fit: cover;
+  width: 328px;
+  height: 56px;
+  color: #2d506c;
+  display: block;
+  top: 0px;
+  left: 0px;
+}
+.assistiveText4 {
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  display: block;
+  font-size: 12px;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  color: rgba(41, 80, 108, 1);
+  position: absolute;
+  left: 16px;
+  bottom: -1px;
+  right: 0px;
+  transform: translate(0px, -0.2010000000000005px);
+}
+.trailingIcon4 {
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 16px;
+  right: 12px;
+}
+.input4 {
+  mix-blend-mode: normal;
+  display: block;
+  font-size: 16px;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0.15px;
+  line-height: 24px;
+  color: rgba(41, 80, 108, 1);
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  right: 52px;
+}
+.label17 {
+  display: block;
+  font-size: 12px;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  color: rgba(41, 80, 108, 1);
+  position: absolute;
+  top: -7px;
+  left: 16px;
+  transform: translate(-0.4580000000000002px, 0.04900000000000038px);
+}
+.buttons17 {
+  width: 280px;
+  height: 36px;
+  display: block;
+  position: absolute;
+  top: 431px;
+  left: 47px;
+}
+.baseFabExtendedFabExtendedMasterShape14 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 1px;
+  bottom: 0px;
+}
+.baseFabExtendedAtomsSquircle14 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.baseSurfaceShapeAtomsSquare17 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.rectangle44 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 4px;
+  background: rgba(97, 1, 237, 1);
+}
+.svg__n1FwD {
+  position: absolute;
+  object-fit: cover;
+  width: 279px;
+  height: 36px;
+  color: #6202ee;
+  display: block;
+  top: 0%;
+  left: 0%;
+}
+.baseFabExtendedAtomsCircle15 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle45 {
+  transform: translate(-0.001px, 0px);
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border-radius: 200px;
+  background: rgba(248, 145, 142, 1);
+}
+.label18 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Roboto";
+  font-weight: 500;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  right: 16px;
+  transform: translate(0px, -0.4009999999999998px);
+}
+.box {
+  display: block;
+  font-size: 36px;
+  text-align: center;
+  font-family: "Luxia";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.25;
+  color: rgba(41, 80, 108, 1);
+  position: absolute;
+  top: 110px;
+  left: 23px;
+  width: 328px;
+}
+.ωAtomsSystemBarDark12 {
+  mix-blend-mode: normal;
+  width: 100%;
+  height: 3.07%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle46 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.svg___1Rbgp {
+  position: absolute;
+  object-fit: cover;
+  width: 48px;
+  height: 11px;
+  color: #000;
+  display: block;
+  top: 7px;
+  left: 319px;
+  transform: translate(-0.25px, 0.29100000000000037px);
+}

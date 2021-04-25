@@ -1,0 +1,326 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  background: #ffffff;
+}
+.iPhone863 {
+  width: 375px;
+  height: 812px;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  left: auto;
+  top: auto;
+  flex-shrink: 0;
+  background: rgba(253, 241, 241, 1);
+}
+.icons3 {
+  width: 100%;
+  height: 58px;
+  display: block;
+  position: absolute;
+  top: 24px;
+  left: 0%;
+}
+.overflow3 {
+  width: 12px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 16px;
+}
+.icon33 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 52px;
+}
+.icon23 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 100px;
+}
+.icon13 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 16px;
+}
+.buttons5 {
+  width: 280px;
+  height: 36px;
+  display: block;
+  position: absolute;
+  top: 641px;
+  left: 47px;
+}
+.baseFabExtendedFabExtendedMasterShape4 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 1px;
+  bottom: 0px;
+}
+.baseFabExtendedAtomsSquircle4 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.baseSurfaceShapeAtomsSquare4 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.rectangle10 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 4px;
+  background: rgba(97, 1, 237, 1);
+}
+.svg__gr7SY {
+  position: absolute;
+  object-fit: cover;
+  width: 279px;
+  height: 36px;
+  color: #6202ee;
+  display: block;
+  top: 0%;
+  left: 0%;
+}
+.baseFabExtendedAtomsCircle5 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle11 {
+  transform: translate(-0.001px, 0px);
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border-radius: 200px;
+  background: rgba(248, 145, 142, 1);
+}
+.label5 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Roboto";
+  font-weight: 500;
+  letter-spacing: 1.25px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  right: 16px;
+  transform: translate(0px, -0.4009999999999998px);
+}
+.buttons6 {
+  width: 280px;
+  height: 36px;
+  display: block;
+  position: absolute;
+  top: 697px;
+  left: 47px;
+}
+.baseFabExtendedFabExtendedMasterShape5 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.baseFabExtendedAtomsSquircle5 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.baseSurfaceShapeAtomsSquare5 {
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+.rectangle12 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.119);
+}
+.svg__x30XC {
+  position: absolute;
+  object-fit: cover;
+  width: 280px;
+  height: 36px;
+  color: #000;
+  display: block;
+  top: 0%;
+  left: 0%;
+}
+.baseFabExtendedAtomsCircle6 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle13 {
+  box-shadow: inset 0px 0px 0px 1px rgba(106, 128, 141, 1);
+  transform: translate(-0.001px, 0px);
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border-radius: 200px;
+}
+.label6 {
+  mix-blend-mode: normal;
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(106, 128, 141, 1);
+  position: absolute;
+  top: 10px;
+  left: 16px;
+  right: 16px;
+}
+.landingPage010212 {
+  mix-blend-mode: darken;
+  width: 310px;
+  height: 306px;
+  display: block;
+  position: absolute;
+  top: 274px;
+  left: 33px;
+  background: url("./images/landingPage01021.null") -77.0414201183432px 0px / 458.57988165680473px
+    306px no-repeat padding-box border-box scroll;
+}
+.box__d43T0 {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Luxia";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(44, 79, 107, 1);
+  position: absolute;
+  top: 250px;
+  left: 54px;
+  width: 267px;
+  height: 47px;
+}
+.asset11 {
+  mix-blend-mode: darken;
+  width: 209px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: 132px;
+  left: 83px;
+  background: url("./images/asset11.png") center center / cover no-repeat
+    padding-box border-box scroll;
+}
+.box__m7Mt7 {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(44, 79, 107, 1);
+  position: absolute;
+  top: 194px;
+  left: 249px;
+  width: 79px;
+  height: 21px;
+}
+.box__om1Ki {
+  display: block;
+  font-size: 14px;
+  text-decoration-line: underline;
+  font-family: "Roboto";
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(248, 145, 142, 1);
+  position: absolute;
+  top: 757px;
+  left: 126px;
+}
+.ωAtomsSystemBarDark3 {
+  mix-blend-mode: normal;
+  width: 100%;
+  height: 3.07%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle14 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.svg__aGr2C {
+  position: absolute;
+  object-fit: cover;
+  width: 48px;
+  height: 11px;
+  color: #000;
+  display: block;
+  top: 7px;
+  left: 319px;
+  transform: translate(-0.25px, 0.29100000000000037px);
+}

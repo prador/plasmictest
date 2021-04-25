@@ -1,0 +1,153 @@
+.root {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  background: #ffffff;
+}
+.iPhone868 {
+  width: 375px;
+  height: 812px;
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background: rgba(253, 241, 241, 1);
+}
+.icons6 {
+  width: 100%;
+  height: 58px;
+  display: block;
+  position: absolute;
+  top: 24px;
+  left: 0%;
+}
+.overflow6 {
+  width: 12px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 16px;
+}
+.icon36 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 52px;
+}
+.icon26 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  right: 100px;
+}
+.icon16 {
+  width: 24px;
+  height: 24px;
+  display: block;
+  position: absolute;
+  top: 17px;
+  left: 16px;
+}
+.asset113 {
+  mix-blend-mode: darken;
+  width: 209px;
+  height: 100px;
+  display: block;
+  position: absolute;
+  top: 300px;
+  left: 83px;
+  background: url("./images/asset11.png") center center / cover no-repeat
+    padding-box border-box scroll;
+}
+.box__eECzW {
+  display: block;
+  font-size: 24px;
+  text-align: center;
+  font-family: "Luxia";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(44, 79, 107, 1);
+  position: absolute;
+  top: 400px;
+  left: 54px;
+  width: 267px;
+  height: 47px;
+}
+.box__vJmi {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(248, 145, 142, 1);
+  position: absolute;
+  top: 749px;
+  left: 120px;
+  width: 79px;
+  height: 21px;
+}
+.rectangle22 {
+  width: 52px;
+  height: 58px;
+  display: block;
+  position: absolute;
+  top: 315px;
+  left: 102px;
+  background: url("./images/rectangle.gif") center center / contain no-repeat
+    padding-box border-box scroll;
+}
+.box___2Goaw {
+  display: block;
+  font-size: 14px;
+  text-align: center;
+  font-family: "Roboto";
+  font-weight: 400;
+  letter-spacing: 0em;
+  line-height: 1.40625;
+  color: rgba(44, 79, 107, 1);
+  position: absolute;
+  top: 749px;
+  left: 165px;
+  width: 79px;
+  height: 21px;
+}
+.ωAtomsSystemBarDark6 {
+  mix-blend-mode: normal;
+  width: 100%;
+  height: 3.07%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.rectangle23 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.svg {
+  position: absolute;
+  object-fit: cover;
+  width: 48px;
+  height: 11px;
+  color: #000;
+  display: block;
+  top: 7px;
+  left: 319px;
+  transform: translate(-0.25px, 0.29100000000000037px);
+}
